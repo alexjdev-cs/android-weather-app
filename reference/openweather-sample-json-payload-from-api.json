@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": -98.13,
+        "lat": 29.7
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 43.57,
+        "pressure": 1020,
+        "humidity": 75,
+        "temp_min": 41,
+        "temp_max": 46.4
+    },
+    "visibility": 16093,
+    "wind": {
+        "speed": 23.04,
+        "deg": 340,
+        "gust": 33.33
+    },
+    "rain": {},
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1572010619,
+    "sys": {
+        "type": 1,
+        "id": 3391,
+        "country": "US",
+        "sunrise": 1572007237,
+        "sunset": 1572047540
+    },
+    "timezone": -18000,
+    "id": 4714131,
+    "name": "New Braunfels",
+    "cod": 200
+}

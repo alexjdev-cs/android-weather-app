@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">"Prove 06 - Weather App"</string>
+    <string name="txt_welcome">"Welcome!"</string>
+    <string name="txt_instructions">"To begin, please enter a city name."</string>
+    <string name="txt_city_hint">"City"</string>
+    <string name="cmd_get_current_temp">"Current Temperature"</string>
+    <string name="cmd_get_forecast">"Get Forecast"</string>
+    <string name="api_key">"YOUR_API_KEY_HERE"</string>
+    <string name="url_current_weather">"https://api.openweathermap.org/data/2.5/weather"</string>
+    <string name="url_forecast">"https://api.openweathermap.org/data/2.5/forecast"</string>
+    <string name="arg_current_temp">"current_temp"</string>
+    <string name="arg_forecast">"forecast"</string>
+    <string name="query_str">"?q=%s&amp;apiKey=%s&amp;units=imperial"</string>
+    <string name="response_file_path">\"C:\\Users\\Alex\\Desktop\\\"</string>
+    <string name="toast_current_temp">"The current temperature for %s is: %s&#176;F"</string>
+    <string name="cond_city_not_found">\"city_not_found\"</string>
+    <string name="toast_city_not_found">"City not found. Please try again."</string>
+</resources>
